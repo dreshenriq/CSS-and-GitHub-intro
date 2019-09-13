@@ -37,12 +37,12 @@ footer {
 
 /* --- add your PSEUDO CLASSES below this line --- */
 
-a:link { color: maroon; }
+a:link { color: #800000; }
 
-a:visited { color: blue; }
+a:visited { color: #0000ff; }
 
-a:focus { color: maroon; background-color: #B0C8FF; }
+a:focus { color: #800000; background-color: #B0C8FF; }
 
-a:hover { color: maroon; background-color: #B0C8FF; }
+a:hover { color: #800000; background-color: #B0C8FF; }
 
-a:active { color: red; background-color: #B0C8FF; }
+a:active { color: #ff0000; background-color: #B0C8FF; }
